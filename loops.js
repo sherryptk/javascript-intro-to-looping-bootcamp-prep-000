@@ -8,5 +8,5 @@ for (let i = 0; i < 25; i++) {
 }
 }
 
-// If your i value is 1, add the string "I am 1 strange loop."; 
+// If your i value is 1, add the string "I am 1 strange loop.";
 // if your i value is anything else, add the string "I am ${i} strange loops."
